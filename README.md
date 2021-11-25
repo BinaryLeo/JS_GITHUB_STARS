@@ -1,6 +1,7 @@
 # JS_GITHUB_STARS
 A script to explore the GitHub API and return the total of stars earned and the numbers of followers of your Github account
 
+Click below and access the project by GitHub Pages: https://binaryleo.github.io/JS_GITHUB_STARS/
 
 ![Animação](https://user-images.githubusercontent.com/72607039/143375045-1d671ec2-8775-4035-99e6-b61b699de8fb.gif)
 
